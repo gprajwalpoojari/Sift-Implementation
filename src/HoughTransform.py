@@ -3,7 +3,6 @@
 import math
 from SiftHelperFunctions import *
 from PoseBin import *
-# from main import *
 
 def perform_hough_transform(matching_keypoints, image_query, bin_x=15, bin_y=15, bin_theta=15, bin_sigma=15):
     hough_dict = {}

@@ -11,7 +11,6 @@ from PostProcessing import *
 from VisualHelperFunctions import *
 
 
-# def main():
 # Initiate SIFT detector
 
 class Main:
