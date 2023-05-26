@@ -5,7 +5,7 @@ In this project, object detection is implemented using SIFT. To filter the outli
 Results for this project can be found in the results directory.
 To run the code, go to src/ directory and run main.py. Be sure to update the paths in files.
 
-## Results
+## Demo
 
 ### Car Pose:
 
